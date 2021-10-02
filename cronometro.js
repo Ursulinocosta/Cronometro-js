@@ -27,7 +27,6 @@ function timer(){
     ss ++;
 
     
-    
     if(ss == 59){
         ss = 0;
         mm++;
