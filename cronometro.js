@@ -25,7 +25,6 @@ document.getElementById('counter').innerText = '00:00:00';
 }
 function timer(){
     ss ++;
-
     
     if(ss == 59){
         ss = 0;
